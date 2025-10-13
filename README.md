@@ -2,5 +2,6 @@
 This repository contains all the tasks completed during the Machine Learning Internship @CodSoft.
 
 
-- [Task 1 - Churn Prediction](./Task_1/)
+- [Task 1 - Customer Churn Prediction](./TASK_1/)
+- [Task 2 - Credit Card Fraud Detection](./TASK_2/)
 
